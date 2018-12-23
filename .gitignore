@@ -24,6 +24,20 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
