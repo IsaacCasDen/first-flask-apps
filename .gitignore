@@ -120,3 +120,5 @@ venv.bak/
 # vscode
 .vscode/
 microblog/config.py
+microblog/app.db
+microblog-workspace.code-workspace
